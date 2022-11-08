@@ -1,0 +1,50 @@
+{
+    "content": [
+    {
+    "headline": "WhatWeDo",
+    "direction": "/WhatWeDo",
+    "mobiledirection": "/MobileWhatWeDo",
+    "banner": "../assets/images/front-what-we-do-link.png",
+    "title": "ABOUT",
+    "color": "#0F528C",
+    "img": "/assets/images/front-what-we-do.png",
+    "mobileimg": "/assets/images/weba-2-mobil-whatwedo.png",
+    "btnimg":"/assets/images/nav-1.png",
+    "linkto":"/GetInTouch",
+    "description": "But i must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and i will givey ou a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master builder of human happiness. No one rejects dislikes, or avoids pleasure itself, because it is pleasure, but because  those who do not know how to pursue pleasure rationally encounter consequences that are.",
+    "contactlogo": "../assets/images/whatwedo-small.png",
+    "contactemail": "it@coolish.com"
+    },
+    {
+    "headline": "MaintainAble",
+    "direction": "/MaintainAble",
+    "mobiledirection": "/MobileMaintainAble",
+    "banner": "../assets/images/front-maintainable-link.png",
+    "title": "WHAT",
+    "color": "#2182BF",
+    "img": "/assets/images/front-maintainable.png",
+    "mobileimg": "/assets/images/weba-3-mobil-maintainable.png",
+    "btnimg":"/assets/images/nav-2.png",
+    "linkto":"/MaintainAble",
+    "description": "But i must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and i will givey ou a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master builder of human happiness. No one rejects dislikes, or avoids pleasure itself, because it is pleasure, but because  those who do not know how to pursue pleasure rationally encounter consequences that are.",
+    "contactlogo": "../assets/images/maintainable-small.png",
+    "contactemail": "pr@coolish.com"
+    },
+    {
+    "headline": "GetInTouch",
+    "direction": "/GetInTouch",
+    "mobiledirection": "/MobileGetInTouch",
+    "title": "CONTACT",
+    "color": "#D9AD29",
+    "img": "/assets/images/front-get-in-touch.png",
+    "mobileimg": "/assets/images/weba-mobil.getintouch.png",
+    "btnimg":"/assets/images/nav-3.png",
+    "linkto":"/GetInTouch",
+    "description": "But i must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and i will givey ou a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master builder of human happiness. No one rejects dislikes, or avoids pleasure itself, because it is pleasure, but because  those who do not know how to pursue pleasure rationally encounter consequences that are.",
+    "contactlogo": "../assets/images/getintouch-small.png",
+    "contactemail": "mn@coolish.com"
+
+
+    }
+    ]
+    }
